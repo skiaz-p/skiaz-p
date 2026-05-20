@@ -44,9 +44,8 @@
 
 ---
 ## 🌐 Find me
-###[LinkedIn](www.linkedin.com/in/luc-casassus-latrille-20962433a)
+www.linkedin.com/in/luc-casassus-latrille-20962433a
 
-### Email
  lcasalat@gmail.com
 ---
  
