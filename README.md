@@ -31,18 +31,28 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-<!--
-**skiaz-p/skiaz-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
+## 📌 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 [Portfolio Website](https://github.com/skiaz-p/portfolio)
+> My personal portfolio — currently in development.
+
+### 🔹 [Recreation of the game "UNO"](https://github.com/hexelll/SAE4)
+> Total recreation of the hit game UNO while adding custom decks, rules and more - currently in development.
+
+---
+ 
+## 📊 GitHub stats
+<!-- General stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skiaz-p&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+<!-- Most used languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skiaz-p&layout=compact&theme=tokyonight&hide_border=true)
+ 
+<!-- Commit streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=skiaz-p&theme=tokyonight&hide_border=true)
+ 
+<!-- Activity graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skiaz-p&theme=tokyo-night&hide_border=true)
