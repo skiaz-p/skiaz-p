@@ -44,10 +44,10 @@
 
 ---
 ## 🌐 Find me
+###[LinkedIn](www.linkedin.com/in/luc-casassus-latrille-20962433a)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luc-casassus-latrille-20962433a)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lcasalat@gmail.com)
+### Email
+ lcasalat@gmail.com
 ---
  
 ## 📊 GitHub stats
