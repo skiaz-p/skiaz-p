@@ -45,14 +45,13 @@
 ---
  
 ## 📊 GitHub stats
-<!-- General stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skiaz-p&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-<!-- Most used languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skiaz-p&layout=compact&theme=tokyonight&hide_border=true)
- 
 <!-- Commit streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=skiaz-p&theme=tokyonight&hide_border=true)
- 
 <!-- Activity graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skiaz-p&theme=tokyo-night&hide_border=true)
+
+## 🌐 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luc-casassus-latrille-20962433a)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lcasalat@gmail.com)
