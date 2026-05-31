@@ -12,7 +12,7 @@
 -  Ask me about **Java, C, Android, or enven the process of making an app**
 -  Based in **France** 
 
-## 🛠️ Tech stack
+## Tech stack
  
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
