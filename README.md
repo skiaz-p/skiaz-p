@@ -1,16 +1,16 @@
 # Hi there, I'm Luc Casassus Latrille 👋
  
-> 🎓 French computer engineering student * Passionnate about developping apps for the web or any device.
+> French computer engineering student * Passionnate about developping apps for the web or any device.
  
 ---
  
-## 🧑‍💻 About me
+## About me
  
-- 🎓 Currently in my **2nd year of integrated preparatory cycle** at **ISANUM**
-- 🔭 Working on **my own portfolio website**
-- 🌱 Learning **C++**, **C#** — and always going deeper into **Web** & **Android development**
-- 💬 Ask me about **Java, C, Android, or enven the process of making an app**
-- 🌍 Based in **France** 🇫🇷
+-  Currently in my **2nd year of integrated preparatory cycle** at **ISANUM**
+-  Working on **my own portfolio website**
+-  Learning **C++**, **C#** — and always going deeper into **Web** & **Android development**
+-  Ask me about **Java, C, Android, or enven the process of making an app**
+-  Based in **France** 
 
 ## 🛠️ Tech stack
  
@@ -34,22 +34,22 @@
 
 ---
 
-## 📌 Projects
+##  Projects
 
-### 🔹 [Portfolio Website](https://github.com/skiaz-p/portfolio)
+###  [Portfolio Website](https://github.com/skiaz-p/portfolio)
 > My personal portfolio — currently in development.
 
-### 🔹 [Recreation of the game "UNO"](https://github.com/hexelll/SAE4)
+###  [Recreation of the game "UNO"](https://github.com/hexelll/SAE4)
 > Total recreation of the hit game UNO while adding custom decks, rules and more - currently in development.
 
 ---
-## 🌐 Find me
+##  Find me
 www.linkedin.com/in/luc-casassus-latrille-20962433a
 
  lcasalat@gmail.com
 ---
  
-## 📊 GitHub stats
+## GitHub stats
 <!-- Commit streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=skiaz-p&theme=tokyonight&hide_border=true)
 <!-- Activity graph -->
