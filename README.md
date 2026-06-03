@@ -1,6 +1,6 @@
 # Hi there, I'm Luc Casassus Latrille 👋
  
-> French computer engineering student * Passionnate about developping apps for the web or any device.
+> French computer engineering student * Passionnate about developping apps and system creation/administration.
  
 ---
  
