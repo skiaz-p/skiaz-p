@@ -9,7 +9,7 @@
 -  Currently in my **2nd year of integrated preparatory cycle** at **ISANUM**
 -  Working on **my own portfolio website**
 -  Learning **C++**, **C#** — and always going deeper into **Web** & **Android development**
--  Ask me about **Java, C, Android, or enven the process of making an app**
+-  Ask me about **Java, C, Android, or even the process of making an app**
 -  Based in **France** 
 
 ## Tech stack
