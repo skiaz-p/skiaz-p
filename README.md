@@ -50,11 +50,5 @@ www.linkedin.com/in/luc-casassus-latrille-20962433a
 
  lcasalat@gmail.com
 ---
- 
-## GitHub stats
-<!-- Commit streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=skiaz-p&theme=tokyonight&hide_border=true)
-<!-- Activity graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skiaz-p&theme=tokyo-night&hide_border=true)
 
 
